@@ -8,4 +8,4 @@
 
 ### [9. Знакомство с Web](<09._Getting_to_know_the_Web/Getting_to_know_the_Web.md>)
 
----
+---[Lesson_3.md](09._Getting_to_know_the_Web%2FLesson_3.md)
