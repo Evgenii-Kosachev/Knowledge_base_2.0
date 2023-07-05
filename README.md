@@ -8,4 +8,6 @@
 
 ### [9. Знакомство с Web](<09._Getting_to_know_the_Web/Getting_to_know_the_Web.md>)
 
+### [12. Операционные системы и виртуализация](<012._Linux/Linux.md>)
+
 ---
