@@ -1,4 +1,4 @@
-package Program.Comparator;
+package Java.Lesson_3.Page_4.Comparator;
 
 public class Student2 implements Comparable<Student2> {
     private final String name;
