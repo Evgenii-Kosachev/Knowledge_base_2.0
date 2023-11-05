@@ -10,6 +10,8 @@
 
 ### [10. Java и базовый API](<Java/Introduction_to_Java.md>)
 
+### [11. Введение в OOP](<OOP/Object-oriented_programming.md>)
+
 ### [12. Операционные системы и виртуализация](<Linux/Linux.md>)
 
 ---
